@@ -1,2 +1,2 @@
 # F1_analytics
-Implemented medallion
+F1 Race prediction in snowflake with medallion data architecture.
